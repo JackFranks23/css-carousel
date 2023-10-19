@@ -8,7 +8,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: linear-gradient(to bottom, #e2bf74, #de9755);
+    background: lightskyblue;
     font-family: 'Ropa Sans', sans-serif;
 }
 
